@@ -5,6 +5,7 @@
   "main": "server.js",
   "dependencies": {
     "asynquence": "^0.9.0",
+    "babel-core": "^6.14.0",
     "babel-loader": "^6.2.0",
     "babel-plugin-add-module-exports": "^0.1.2",
     "babel-plugin-react-html-attrs": "^2.0.0",
@@ -13,6 +14,7 @@
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-react": "^6.3.13",
     "babel-preset-stage-0": "^6.3.13",
+    "file-loader": "^0.9.0",
     "css-loader": "^0.23.1",
     "express": "^4.14.0",
     "flux": "^2.1.1",
